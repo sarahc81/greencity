@@ -1,0 +1,52 @@
+Traffic urbain
+	voiture electrique %
+	voiture essence ou diesel %
+	transport en commun %
+	velo %
+	pedestre %
+
+Energie
+	types utilisés : % fossile, % renouvelable
+	équipement population : %popu aillant éolien ou solaire
+
+Respect de l'écosysteme
+	abeille
+
+Espace vert
+	potager urbain oui/non? rendement?
+		///influence les abeilles, bien etre population, CO2
+		///est influencé par abeilles!
+	parc : superficie et/ou nombre
+		///influence CO2, Bien être population
+	vert %
+
+Population %
+	sante physique
+	sante mentale
+	bien-être : sante physique et sante mentale et infrastructure
+	adhésion écologique %
+		//est influencé par bien-être
+		
+
+Polution
+	déchet urbain %
+	CO2 ????
+		//est influencé par le trafic voiture
+	sonore %
+	tri sélectif % (niv0 tout au meme endroit,  niv+ tri effectif)
+		//est influencé par adhésion écologique, infrastructure
+	
+Infrastructure
+	centrale de tri de déchet supérieur bool
+	gigafactory bool
+	parc eolien bool
+	gestion eaux usagées bool
+	transport : tramway, metro, hyperloop bool
+	aeroport
+		//est influence par
+		//influence pollution
+	rond point végétal bool
+		//vert
+		
+	
+	
