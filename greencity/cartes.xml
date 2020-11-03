@@ -1,0 +1,6 @@
+<?xml version ="1.0" encoding="ISO-8859-1"?>
+<cartes>
+    <carte>
+        <question>maquestion1</question>
+
+//carte=['maquestion1', [['proposition1', [("stat1","val"), ("stat","val")]], ["proposition2", [("stat1","val"), ("stat","val")]], ["proposition3", [("stat1","val"), ("stat","val")]], ["proposition4", [("stat1","val"), ("stat","val")]]]];
